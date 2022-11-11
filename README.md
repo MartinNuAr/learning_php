@@ -1,4 +1,4 @@
-# Learning PHP from LinkedIn Learning Challenges
+# Learning PHP Challenges from LinkedIn Learning 
 
 These are the challenge exercises from the LinkedIn Learning course [Learning PHP](https://www.linkedin.com/learning/learning-php-4/).
 
@@ -6,7 +6,7 @@ These are the challenge exercises from the LinkedIn Learning course [Learning PH
 
 1. __The basics: Display basic information on an HTML page__
 
-    Made a story about an outing using basic php syntax and HTML elements. 
+    Made a story about an outing using basic PHP syntax and HTML elements. 
 
 2. __Control Structures: Display content based on Status__
 
@@ -16,4 +16,8 @@ These are the challenge exercises from the LinkedIn Learning course [Learning PH
 
     Solved the next three math equations through PHP aritmethic operators:
 
-![image](./3_Math/Math.PNG)
+        ![image](./3_Math/Math.PNG)
+
+4. __Calculating the Fibonacci sequence__
+
+    In this program, I implement a loop to print the Fibonacci sequence without going over 200.
