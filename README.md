@@ -16,7 +16,9 @@ These are the challenge exercises from the LinkedIn Learning course [Learning PH
 
     Solved the next three math equations through PHP aritmethic operators:
 
-        ![image](./3_Math/Math.PNG)
+<p align="center">
+  <img src="./3_Math/Math.PNG">
+</p>
 
 4. __Calculating the Fibonacci sequence__
 
