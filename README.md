@@ -23,3 +23,7 @@ These are the challenge exercises from the LinkedIn Learning course [Learning PH
 4. __Calculating the Fibonacci sequence__
 
     In this program, I implement a loop to print the Fibonacci sequence without going over 200.
+
+5. __Sort an array of objects__
+
+    This program uses anonymous and predefined functions to sort an array of objects consisting of first names and last name from people. The properties are encapsulated, so I had to use the getters.

@@ -2,9 +2,9 @@
     $sum = 1;
     $lastNumber = 0;
     $penNumber = 0;
-    $i = 1;
+    $limit = 200;
 
-    while ($sum <= 200) {
+    while ($sum <= $limit) {
         echo '<p>' . $sum . '</p>';
         $penNumber = $lastNumber;
         $lastNumber = $sum;
